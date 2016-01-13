@@ -1,2 +1,2 @@
 # dump
-A test repository
+A test repository where I put some code snippets
