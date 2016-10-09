@@ -1,0 +1,10 @@
+name: test
+title: test
+account: pedro
+server: 192.168.0.12
+appId: 3
+bundleId: 3
+url: http://192.168.0.12:3939/content/3/
+when: 1475581338.13163
+asMultiple: FALSE
+asStatic: FALSE
